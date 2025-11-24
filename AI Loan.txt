@@ -1,0 +1,8 @@
+AI
+This AI system predicts loan defaults using historical financial data and behavioral analytics. Financial institutions deploy it to automate risk evaluation, reduce NPAs, and improve loan approval accuracy.
+
+Loan-Approval-Prediction-Dataset:
+https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset
+
+Loan Status Prediction: https://www.kaggle.com/datasets/bhavikjikadara/loan-status-prediction
+
